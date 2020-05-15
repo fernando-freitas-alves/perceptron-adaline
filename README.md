@@ -6,4 +6,4 @@ This project shows a simple implementation of a perceptron artificial neuron in 
 ADALINE is to come in future commits.
 
 ## Notes
-If trying with Colab, make sure to copy the `datasets` folder to your Google Colab repo into `/content` path.
+If trying with Colab, make sure to copy the `datasets` folder to your Google Colab `/content` path.
